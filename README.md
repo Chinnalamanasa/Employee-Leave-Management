@@ -26,11 +26,11 @@ A role-based leave management system developed using Spring Boot, Java, and MySQ
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](Screenshot 2026-06-07 at 13.05.14.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]()
 
 ### Leave Request Form
 
