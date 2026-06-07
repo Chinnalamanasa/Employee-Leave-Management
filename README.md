@@ -35,7 +35,7 @@ A role-based leave management system developed using Spring Boot, Java, and MySQ
 
 ### Leave Request Form
 
-![Leave Form]()
+![Leave Form](screenshots/leave.png)
 
 ## Author
 
